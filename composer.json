@@ -1,0 +1,16 @@
+{
+    "name": "kgosi/prd-dev",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kgosietsile modise",
+            "email": "kgosietsilemd@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "pd\\":"src"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "askForPassword": false,
+      "database": "prddev",
+      "driver": "MySQL",
+      "name": "prd",
+      "port": 3306,
+      "server": "localhost",
+      "username": "root"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
